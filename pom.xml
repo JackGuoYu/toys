@@ -10,18 +10,19 @@
         <version>2.1.6.RELEASE</version>
     </parent>
 
-    <groupId>cn.stylefeng</groupId>
-    <artifactId>guns-vip</artifactId>
+    <groupId>cn.toys</groupId>
+    <artifactId>toys</artifactId>
     <version>1.0.0</version>
 
-    <name>guns-vip</name>
-    <description>guns开源版</description>
+    <name>toys</name>
+    <description>汕头玩具展示</description>
 
     <packaging>pom</packaging>
 
     <modules>
-        <module>guns-base-support</module>
-        <module>guns-vip-main</module>
+        <module>toys-base-support</module>
+        <module>toys-main</module>
+        <module>toys-business</module>
     </modules>
 
     <properties>

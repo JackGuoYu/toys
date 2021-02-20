@@ -420,7 +420,7 @@ CREATE TABLE `sys_operation_log`  (
 -- ----------------------------
 -- Records of sys_operation_log
 -- ----------------------------
-INSERT INTO `sys_operation_log` VALUES (1240637477484531714, '业务日志', '清空业务日志', 1, 'cn.stylefeng.guns.sys.modular.system.controller.LogController', 'delLog', '2020-03-19 21:53:19', '成功', '主键id=null');
+INSERT INTO `sys_operation_log` VALUES (1240637477484531714, '业务日志', '清空业务日志', 1, 'LogController', 'delLog', '2020-03-19 21:53:19', '成功', '主键id=null');
 
 -- ----------------------------
 -- Table structure for sys_position
